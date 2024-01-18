@@ -1,0 +1,33 @@
+.footer{
+    footer{
+        //display: flex;
+        background-color: black;
+        color:white;
+        width: 100%;
+        //margin: 5px;
+    }
+    .container{
+        display: flex;
+        //padding: 25px;
+        //width: 25%;
+        //justify-content: center;
+    }
+    .footer-blocks{
+        //padding-left:5%;
+        margin:2% 0 2% 0;
+        width: 25%;
+        border-right: 1px solid gray;
+    }
+    .footer-blocks p{
+        //padding-left:5%;
+        margin-left:8%;
+            }
+            .footer-blocks p:hover{
+                cursor: pointer;
+                //padding-left:5%;
+                text-decoration: underline;
+                //font-weight: 10;
+                    }
+
+    
+}
